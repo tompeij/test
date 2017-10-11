@@ -1,0 +1,2066 @@
+# Translation of Fresh Lite in English (Canada)
+# This file is distributed under the same license as the Fresh Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-11-24 01:57:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Fresh Lite\n"
+
+#. Theme Name of the plugin/theme
+msgid "Fresh Lite"
+msgstr "Fresh Lite"
+
+#. Description of the plugin/theme
+msgid "Fresh Lite is a fully Responsive Drag & Drop Starter WordPress Theme that adds amazing new functionality to your WordPress website. Featuring Twitter Bootstrap, and responsive touch friendly theme options that work on any device. Please use the <a href=\"http://cyberchimps.com/forum/\">official support forum</a> (http://cyberchimps.com/forum/). Thank you."
+msgstr "Fresh Lite is a fully Responsive Drag & Drop Starter WordPress Theme that adds amazing new functionality to your WordPress website. Featuring Twitter Bootstrap, and responsive touch friendly theme options that work on any device. Please use the <a href=\"http://cyberchimps.com/forum/\">official support forum</a> (http://cyberchimps.com/forum/). Thank you."
+
+#: cyberchimps/options/options-customizer.php:1953
+msgid "Upgrade To Pro"
+msgstr "Upgrade To Pro"
+
+#: cyberchimps/options/options-customizer.php:1300
+msgid "Post Title"
+msgstr "Post title"
+
+#: cyberchimps/options/options-customizer.php:1585
+msgid "404"
+msgstr "404"
+
+#: cyberchimps/options/options-customizer.php:1666
+msgid "Layout"
+msgstr "Layout"
+
+#: cyberchimps/options/options-customizer.php:1267
+msgid "Several settings for Template"
+msgstr "Several settings for Template"
+
+#: cyberchimps/options/options-customizer.php:1266
+msgid "Template"
+msgstr "Template"
+
+#: cyberchimps/options/options-customizer.php:866
+msgid "Upload Slider Image 2"
+msgstr "Upload Slider Image 2"
+
+#: cyberchimps/options/options-customizer.php:891
+msgid "Upload Slider Image 3"
+msgstr "Upload Slider Image 3"
+
+#: cyberchimps/options/options-customizer.php:954
+msgid "Show First Porfolio Link"
+msgstr "Show First Porfolio Link"
+
+#: cyberchimps/options/options-customizer.php:966
+msgid "First Porfolio URL"
+msgstr "First Porfolio URL"
+
+#: cyberchimps/options/options-customizer.php:1005
+msgid "Show Second Porfolio Link"
+msgstr "Show Second Porfolio Link"
+
+#: cyberchimps/options/options-customizer.php:1017
+msgid "Second Porfolio URL"
+msgstr "Second Porfolio URL"
+
+#: cyberchimps/options/options-customizer.php:1056
+msgid "Show Third Porfolio Link"
+msgstr "Show Third Porfolio Link"
+
+#: cyberchimps/options/options-customizer.php:1068
+msgid "Third Porfolio URL"
+msgstr "Third Porfolio URL"
+
+#: cyberchimps/options/options-customizer.php:1082
+msgid "Forth Portfolio Image"
+msgstr "Forth Portfolio Image"
+
+#: cyberchimps/options/options-customizer.php:1094
+msgid "Forth Portfolio Image Caption"
+msgstr "Forth Portfolio Image Caption"
+
+#: cyberchimps/options/options-customizer.php:1107
+msgid "Show Forth Porfolio Link"
+msgstr "Show Forth Porfolio Link"
+
+#: cyberchimps/options/options-customizer.php:1119
+msgid "Forth Porfolio URL"
+msgstr "Forth Porfolio URL"
+
+#: cyberchimps/options/options-customizer.php:1157
+msgid "First Link URL"
+msgstr "First Link URL"
+
+#: cyberchimps/options/options-customizer.php:1197
+msgid "Second Link URL"
+msgstr "Second Link URL"
+
+#: cyberchimps/options/options-customizer.php:1237
+msgid "Third Link URL"
+msgstr "Third Link URL"
+
+#: cyberchimps/options/options-customizer.php:502
+#: cyberchimps/options/options-customizer.php:523
+msgid "Youtube URL"
+msgstr "YouTube URL"
+
+#: cyberchimps/options/options-customizer.php:294
+msgid "Upload Logo Image"
+msgstr "Upload Logo Image"
+
+#: cyberchimps/options/options-customizer.php:238
+msgid "Several settings for Header"
+msgstr "Several settings for Header"
+
+#: cyberchimps/options/options-customizer.php:245
+msgid "Header Option"
+msgstr "Header Option"
+
+#: cyberchimps/options/options-customizer.php:268
+msgid "Enter Custom Logo URL"
+msgstr "Enter Custom Logo URL"
+
+#: cyberchimps/options/options-customizer.php:280
+msgid "Display Logo?"
+msgstr "Display Logo?"
+
+#: cyberchimps/options/options-customizer.php:307
+msgid "Display Favicon?"
+msgstr "Display Favicon?"
+
+#: cyberchimps/options/options-customizer.php:320
+msgid "Upload Favicon Image"
+msgstr "Upload Favicon Image"
+
+#: cyberchimps/options/options-customizer.php:333
+msgid "Display Custom Apple touch icon?"
+msgstr "Display Custom Apple touch icon?"
+
+#: cyberchimps/options/options-customizer.php:346
+msgid "Upload Custom Apple touch icon"
+msgstr "Upload Custom Apple touch icon"
+
+#: cyberchimps/options/options-customizer.php:359
+msgid "Display Searchbar?"
+msgstr "Display Searchbar?"
+
+#: cyberchimps/options/options-customizer.php:372
+msgid "Social Option"
+msgstr "Social Option"
+
+#: cyberchimps/options/options-customizer.php:404
+msgid "Display Facebook?"
+msgstr "Display Facebook?"
+
+#: cyberchimps/options/options-customizer.php:429
+msgid "Display Twitter?"
+msgstr "Display Twitter?"
+
+#: cyberchimps/options/options-customizer.php:450
+msgid "Display Google?"
+msgstr "Display Google?"
+
+#: cyberchimps/options/options-customizer.php:471
+msgid "Display LinkedIn?"
+msgstr "Display LinkedIn?"
+
+#: cyberchimps/options/options-customizer.php:492
+msgid "Display Youtube?"
+msgstr "Display Youtube?"
+
+#: cyberchimps/options/options-customizer.php:513
+msgid "Display Flickr?"
+msgstr "Display Flickr?"
+
+#: cyberchimps/options/options-customizer.php:534
+msgid "Display Pinterest?"
+msgstr "Display Pinterest?"
+
+#: cyberchimps/options/options-customizer.php:555
+msgid "Display Google Maps?"
+msgstr "Display Google Maps?"
+
+#: cyberchimps/options/options-customizer.php:576
+msgid "Display Email?"
+msgstr "Display Email?"
+
+#: cyberchimps/options/options-customizer.php:597
+msgid "Display RSS?"
+msgstr "Display RSS?"
+
+#: cyberchimps/options/options-customizer.php:618
+msgid "Display Instagram?"
+msgstr "Display Instagram?"
+
+#: cyberchimps/options/options-customizer.php:641
+msgid "Several settings for Blog"
+msgstr "Several settings for Blog"
+
+#: cyberchimps/options/options-customizer.php:648
+msgid "Blog Option"
+msgstr "Blog Option"
+
+#: cyberchimps/options/options-customizer.php:649
+msgid "Blog elements configuration"
+msgstr "Blog elements configuration"
+
+#: cyberchimps/options/options-customizer.php:841
+msgid "Upload Slider Image 1"
+msgstr "Upload Slider Image 1"
+
+#: sidebar-left.php:61 sidebar-right.php:61 sidebar.php:61
+msgid "Comments (RSS)"
+msgstr "Comments (RSS)"
+
+#: sidebar-left.php:60 sidebar-right.php:60 sidebar.php:60
+msgid "Entries (RSS)"
+msgstr "Entries (RSS)"
+
+#: sidebar-left.php:58 sidebar-right.php:58 sidebar.php:58
+msgid "Subscribe"
+msgstr "Subscribe"
+
+#: search.php:37
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: no-results.php:45
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: no-results.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: no-results.php:27
+msgid "Ready to publish your first post?"
+msgstr "Ready to publish your first post?"
+
+#: no-results.php:29
+msgid "Get started here"
+msgstr "Get started here"
+
+#: no-results.php:19
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: image.php:164
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Both comments and trackbacks are currently closed."
+
+#: image.php:154
+msgid "Post a comment"
+msgstr "Post a comment"
+
+#: image.php:154
+msgid "or leave a trackback"
+msgstr "or leave a trackback"
+
+#: image.php:154 image.php:156
+msgid "Trackback URL"
+msgstr "Trackback URL"
+
+#: image.php:156
+msgid "Comments are closed, but you can leave a trackback:"
+msgstr "Comments are closed, but you can leave a trackback:"
+
+#: image.php:160
+msgid "Trackbacks are closed, but you can"
+msgstr "Trackbacks are closed, but you can"
+
+#: image.php:160
+msgid "post a comment"
+msgstr "post a comment"
+
+#: image.php:64
+msgid "Next"
+msgstr "Next"
+
+#: image.php:61
+msgid "Previous"
+msgstr "Previous"
+
+#: image.php:45
+msgid "in"
+msgstr "In"
+
+#: image.php:45
+msgid "size"
+msgstr "Size"
+
+#: image.php:45
+msgid "Published"
+msgstr "Published"
+
+#: functions.php:174
+msgid "Fresh Free Professional Responsive WordPress Theme"
+msgstr "Fresh Free Professional Responsive WordPress Theme"
+
+#. translators: 1: date, 2: time
+#: functions.php:75
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: functions.php:66
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: functions.php:62
+msgid "says:"
+msgstr "says:"
+
+#: functions.php:52 functions.php:78
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: functions.php:52
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: footer.php:55 sidebar-left.php:51 sidebar-right.php:51 sidebar.php:51
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+
+#: footer.php:50 footer.php:55 sidebar-left.php:46 sidebar-left.php:51
+#: sidebar-right.php:46 sidebar-right.php:51 sidebar.php:46 sidebar.php:51
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:29 sidebar-left.php:25 sidebar-right.php:25 sidebar.php:25
+msgid "Pages"
+msgstr "Pages"
+
+#: elements/parallax.php:94 elements/parallax.php:116 elements/parallax.php:138
+#: elements/parallax.php:160
+msgid "Parallax"
+msgstr "Parallax"
+
+#: elements/portfolio-lite.php:48
+msgid "Image 1"
+msgstr "Image 1"
+
+#: elements/portfolio-lite.php:78
+msgid "Image 2"
+msgstr "Image 2"
+
+#: elements/portfolio-lite.php:108
+msgid "Image 3"
+msgstr "Image 3"
+
+#: elements/portfolio-lite.php:138
+msgid "Image 4"
+msgstr "Image 4"
+
+#: elements/slider-lite.php:40
+msgid "Slide One Image"
+msgstr "Slide One Image"
+
+#: elements/slider-lite.php:47
+msgid "Slide One Link"
+msgstr "Slide One Link"
+
+#: elements/slider-lite.php:54
+msgid "Slide Two Image"
+msgstr "Slide Two Image"
+
+#: elements/slider-lite.php:61
+msgid "Slide Two Link"
+msgstr "Slide Two Link"
+
+#: elements/slider-lite.php:68
+msgid "Slide Three Image"
+msgstr "Slide Three Image"
+
+#: elements/slider-lite.php:75
+msgid "Slide Three Link"
+msgstr "Slide Three Link"
+
+#: elements/slider-lite.php:85
+msgid "Slider Lite Options"
+msgstr "Slider Lite Options"
+
+#: elements/parallax.php:104 elements/parallax.php:126
+#: elements/parallax.php:148
+msgid "Background image for parallax"
+msgstr "Background image for parallax"
+
+#: elements/parallax.php:162
+msgid "Set the background image at Appearance > Background to get parallax effect on whole body."
+msgstr "Set the background image at Appearance > Background to get parallax effect on whole body."
+
+#: elements/init.php:166
+msgid "All plugins installed and activated successfully. %s"
+msgstr "All plugins installed and activated successfully. %s"
+
+#: elements/init.php:153
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+#: elements/init.php:151
+msgid "Activate Add Ons"
+msgstr "Activate Add Ons"
+
+#: elements/init.php:150
+msgid "Responsive Add Features"
+msgstr "Responsive Add Features"
+
+#: elements/inc/class-tgm-plugin-activation.php:2148
+msgid "Return to the Dashboard"
+msgstr "Return to the dashboard"
+
+#: elements/inc/class-tgm-plugin-activation.php:2055
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: elements/inc/class-tgm-plugin-activation.php:2054
+msgid "All installations have been completed."
+msgstr "All installations have been completed."
+
+#: elements/inc/class-tgm-plugin-activation.php:2053
+msgid "%1$s installed successfully."
+msgstr "%1$s installed successfully."
+
+#: elements/inc/class-tgm-plugin-activation.php:2052
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+#: elements/inc/class-tgm-plugin-activation.php:2051
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+#: elements/inc/class-tgm-plugin-activation.php:2050
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "The installation process is starting. This process may take a while on some hosts, so please be patient."
+
+#: elements/inc/class-tgm-plugin-activation.php:2046
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: elements/inc/class-tgm-plugin-activation.php:2045
+msgid "All installations and activations have been completed."
+msgstr "All installations and activations have been completed."
+
+#: elements/inc/class-tgm-plugin-activation.php:2044
+#: elements/inc/class-tgm-plugin-activation.php:2053
+msgid "Hide Details"
+msgstr "Hide Details"
+
+#: elements/inc/class-tgm-plugin-activation.php:2044
+#: elements/inc/class-tgm-plugin-activation.php:2053
+msgid "Show Details"
+msgstr "Show Details"
+
+#: elements/inc/class-tgm-plugin-activation.php:2044
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: elements/inc/class-tgm-plugin-activation.php:2043
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+
+#: elements/inc/class-tgm-plugin-activation.php:1930
+msgid "Plugin activation failed."
+msgstr "Plugin activation failed."
+
+#: elements/inc/class-tgm-plugin-activation.php:1919
+msgid "Plugin installed successfully."
+msgstr "Plugin installed successfully."
+
+#: elements/inc/class-tgm-plugin-activation.php:1918
+msgid "Plugin install failed."
+msgstr "Plugin install failed."
+
+#: elements/inc/class-tgm-plugin-activation.php:1917
+msgid "Installing the plugin&#8230;"
+msgstr "Installing the plugin&#8230;"
+
+#: elements/inc/class-tgm-plugin-activation.php:1916
+msgid "Unpacking the package&#8230;"
+msgstr "Unpacking the package&#8230;"
+
+#: elements/inc/class-tgm-plugin-activation.php:1915
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+
+#: elements/inc/class-tgm-plugin-activation.php:1914
+msgid "Install package not available."
+msgstr "Install package not available."
+
+#: elements/inc/class-tgm-plugin-activation.php:1370
+msgid "Activate"
+msgstr "Activate"
+
+#: elements/inc/class-tgm-plugin-activation.php:1369
+msgid "Install"
+msgstr "Install"
+
+#: elements/inc/class-tgm-plugin-activation.php:1351
+msgid "Status"
+msgstr "Status"
+
+#: elements/inc/class-tgm-plugin-activation.php:1350
+msgid "Type"
+msgstr "Type"
+
+#: elements/inc/class-tgm-plugin-activation.php:1349
+msgid "Source"
+msgstr "Source"
+
+#: elements/inc/class-tgm-plugin-activation.php:1348
+msgid "Plugin"
+msgstr "Plugin"
+
+#: elements/inc/class-tgm-plugin-activation.php:1332
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+
+#: elements/inc/class-tgm-plugin-activation.php:1151
+msgid "Installed But Not Activated"
+msgstr "Installed But Not Activated"
+
+#: elements/inc/class-tgm-plugin-activation.php:1148
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: elements/inc/class-tgm-plugin-activation.php:1145
+msgid "Recommended"
+msgstr "Recommended"
+
+#: elements/inc/class-tgm-plugin-activation.php:1145
+msgid "Required"
+msgstr "Required"
+
+#: elements/inc/class-tgm-plugin-activation.php:1142
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: elements/inc/class-tgm-plugin-activation.php:1137
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: elements/inc/class-tgm-plugin-activation.php:1133
+msgid "Private Repository"
+msgstr "Private Repository"
+
+#: elements/inc/class-tgm-plugin-activation.php:1128
+msgid "External Link"
+msgstr "External Link"
+
+#: elements/inc/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr "Dismiss this notice"
+
+#: elements/inc/class-tgm-plugin-activation.php:173
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "All plugins installed and activated successfully. %1$s"
+
+#: elements/inc/class-tgm-plugin-activation.php:172
+#: elements/inc/class-tgm-plugin-activation.php:1614
+msgid "The following plugin was activated successfully:"
+msgstr "The following plugin was activated successfully:"
+
+#: elements/inc/class-tgm-plugin-activation.php:171
+#: elements/inc/class-tgm-plugin-activation.php:1931 elements/init.php:165
+msgid "Plugin activated successfully."
+msgstr "Plugin activated successfully."
+
+#: elements/inc/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr "Return to the dashboard"
+
+#: elements/inc/class-tgm-plugin-activation.php:169 elements/init.php:164
+msgid "Return to Required Plugins Installer"
+msgstr "Return to Required Plugins Installer"
+
+#: elements/inc/class-tgm-plugin-activation.php:168 elements/init.php:163
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activate installed plugin"
+msgstr[1] "Activate installed plugins"
+
+#: elements/inc/class-tgm-plugin-activation.php:167 elements/init.php:162
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin installing plugin"
+msgstr[1] "Begin installing plugins"
+
+#: elements/inc/class-tgm-plugin-activation.php:166 elements/init.php:161
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgstr[1] "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+
+#: elements/inc/class-tgm-plugin-activation.php:165 elements/init.php:160
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[1] "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+
+#: elements/inc/class-tgm-plugin-activation.php:164 elements/init.php:159
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgstr[1] "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+
+#: elements/inc/class-tgm-plugin-activation.php:163 elements/init.php:158
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "The following recommended plugin is currently inactive: %1$s."
+msgstr[1] "The following recommended plugins are currently inactive: %1$s."
+
+#: elements/inc/class-tgm-plugin-activation.php:162 elements/init.php:157
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "The following required plugin is currently inactive: %1$s."
+msgstr[1] "The following required plugins are currently inactive: %1$s."
+
+#: elements/inc/class-tgm-plugin-activation.php:161 elements/init.php:156
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgstr[1] "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+
+#: elements/inc/class-tgm-plugin-activation.php:160 elements/init.php:155
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "This theme recommends the following plugin: %1$s."
+msgstr[1] "This theme recommends the following plugins: %1$s."
+
+#: elements/inc/class-tgm-plugin-activation.php:159 elements/init.php:154
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "This theme requires the following plugin: %1$s."
+msgstr[1] "This theme requires the following plugins: %1$s."
+
+#: elements/inc/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr "Something went wrong."
+
+#: elements/inc/class-tgm-plugin-activation.php:157 elements/init.php:152
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#: elements/inc/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#: elements/inc/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr "Install Required Plugins"
+
+#: cyberchimps/options/theme-upsell.php:59
+msgid "Themes You Can Trust"
+msgstr "Themes You Can Trust"
+
+#: cyberchimps/options/options-sanitize.php:449
+msgid "Bold Italic"
+msgstr "Bold Italic"
+
+#: cyberchimps/options/options-sanitize.php:448
+msgid "Bold"
+msgstr "Bold"
+
+#: cyberchimps/options/options-sanitize.php:447
+msgid "Italic"
+msgstr "Italic"
+
+#: cyberchimps/options/options-sanitize.php:446
+msgid "Normal"
+msgstr "Normal"
+
+#: cyberchimps/options/options-sanitize.php:369
+msgid "Fixed in Place"
+msgstr "Fixed in Place"
+
+#: cyberchimps/options/options-sanitize.php:368
+msgid "Scroll Normally"
+msgstr "Scroll Normally"
+
+#: cyberchimps/options/options-sanitize.php:354
+msgid "Bottom Right"
+msgstr "Bottom right"
+
+#: cyberchimps/options/options-sanitize.php:353
+msgid "Bottom Center"
+msgstr "Bottom Centre"
+
+#: cyberchimps/options/options-sanitize.php:352
+msgid "Bottom Left"
+msgstr "Bottom left"
+
+#: cyberchimps/options/options-sanitize.php:351
+msgid "Middle Right"
+msgstr "Middle Right"
+
+#: cyberchimps/options/options-sanitize.php:350
+msgid "Middle Center"
+msgstr "Middle Centre"
+
+#: cyberchimps/options/options-sanitize.php:349
+msgid "Middle Left"
+msgstr "Middle Left"
+
+#: cyberchimps/options/options-sanitize.php:348
+msgid "Top Right"
+msgstr "Top right"
+
+#: cyberchimps/options/options-sanitize.php:347
+msgid "Top Center"
+msgstr "Top Centre"
+
+#: cyberchimps/options/options-sanitize.php:346
+msgid "Top Left"
+msgstr "Top left"
+
+#: cyberchimps/options/options-sanitize.php:332
+msgid "Repeat All"
+msgstr "Repeat All"
+
+#: cyberchimps/options/options-sanitize.php:331
+msgid "Repeat Vertically"
+msgstr "Repeat Vertically"
+
+#: cyberchimps/options/options-sanitize.php:330
+msgid "Repeat Horizontally"
+msgstr "Repeat Horizontally"
+
+#: cyberchimps/options/options-sanitize.php:329
+msgid "No Repeat"
+msgstr "No Repeat"
+
+#: cyberchimps/options/options-medialibrary-uploader.php:239
+msgid "Previously Uploaded"
+msgstr "Previously Uploaded"
+
+#: cyberchimps/options/options-medialibrary-uploader.php:239
+msgid "Gallery"
+msgstr "Gallery"
+
+#: cyberchimps/options/options-medialibrary-uploader.php:113
+msgid "View File"
+msgstr "View File"
+
+#: cyberchimps/options/options-init.php:1163
+msgid "Options saved."
+msgstr "Options saved."
+
+#: cyberchimps/options/options-init.php:1088
+msgid "Default options restored."
+msgstr "Default options restored."
+
+#: cyberchimps/options/options-init.php:1051
+#: cyberchimps/options/options-init.php:1074
+msgid "Invalid Data for Import"
+msgstr "Invalid Data for Import"
+
+#: cyberchimps/options/options-init.php:299
+#: cyberchimps/options/options-init.php:301
+msgid "CyberChimps WordPress Themes"
+msgstr "CyberChimps WordPress Themes"
+
+#: cyberchimps/options/options-init.php:578
+msgid "Default Field"
+msgstr "Default Field"
+
+#: cyberchimps/options/options-init.php:1046
+#: cyberchimps/options/options-init.php:1069
+msgid "Options Imported"
+msgstr "Options Imported"
+
+#: cyberchimps/options/options-init.php:195
+#: cyberchimps/options/options-init.php:333
+msgid "Restore Defaults"
+msgstr "Restore Defaults"
+
+#: cyberchimps/options/options-init.php:193
+#: cyberchimps/options/options-init.php:331
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Click OK to reset. Any theme settings will be lost!"
+
+#: cyberchimps/options/options-init.php:192
+#: cyberchimps/options/options-init.php:262
+#: cyberchimps/options/options-init.php:330
+msgid "Save Options"
+msgstr "Save Options"
+
+#: cyberchimps/options/options-init.php:140
+msgid "Buy Themes"
+msgstr "Buy Themes"
+
+#: cyberchimps/options/options-init.php:33
+#: cyberchimps/options/options-init.php:1212
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: cyberchimps/options/options-init.php:32
+msgid "Theme Options Page"
+msgstr "Theme Options Page"
+
+#: cyberchimps/options/options-customizer.php:1938
+msgid "Background Image"
+msgstr "Background Image"
+
+#: cyberchimps/options/options-customizer.php:1747
+msgid "Skin Color"
+msgstr "Skin Color"
+
+#: cyberchimps/options/options-customizer.php:1823
+msgid "Typography Size"
+msgstr "Typography Size"
+
+#: cyberchimps/options/options-customizer.php:1838
+msgid "Typography Style"
+msgstr "Typography Style"
+
+#: cyberchimps/options/options-customizer.php:1880
+msgid "Typography Face"
+msgstr "Typography Face"
+
+#: cyberchimps/options/options-customizer.php:100
+msgid "make sure you have removed the image above before selecting one of these"
+msgstr "make sure you have removed the image above before selecting one of these"
+
+#: cyberchimps/options/options-customizer.php:19
+msgid "Customize"
+msgstr "Customize"
+
+#: cyberchimps/options/options-core.php:2528
+#: cyberchimps/options/options-customizer.php:1655
+msgid "Footer Copyright Text"
+msgstr "Footer Copyright Text"
+
+#: cyberchimps/options/options-core.php:2287
+#: cyberchimps/options/options-core.php:2363
+#: cyberchimps/options/options-customizer.php:706
+#: cyberchimps/options/options-customizer.php:1324
+#: cyberchimps/options/options-customizer.php:1423
+msgid "Post Format Icons"
+msgstr "Post Format Icons"
+
+#: cyberchimps/options/options-core.php:2498
+#: cyberchimps/options/options-customizer.php:1610
+msgid "Custom 404 Title"
+msgstr "Custom 404 Title"
+
+#: cyberchimps/options/options-core.php:2506
+#: cyberchimps/options/options-customizer.php:1622
+msgid "Custom 404 Content"
+msgstr "Custom 404 Content"
+
+#: cyberchimps/options/options-core.php:2270
+msgid "Post title"
+msgstr "Post title"
+
+#: cyberchimps/options/options-core.php:2255
+#: cyberchimps/options/options-core.php:2349
+#: cyberchimps/options/options-core.php:2441
+#: cyberchimps/options/options-core.php:2484
+#: cyberchimps/options/options-customizer.php:1287
+#: cyberchimps/options/options-customizer.php:1410
+#: cyberchimps/options/options-customizer.php:1532
+#: cyberchimps/options/options-customizer.php:1597
+msgid "Sidebar Options"
+msgstr "Sidebar Options"
+
+#: cyberchimps/options/options-core.php:1967
+msgid "Number of boxes per row"
+msgstr "Number of boxes per row"
+
+#: cyberchimps/options/options-core.php:2256
+#: cyberchimps/options/options-core.php:2350
+#: cyberchimps/options/options-core.php:2442
+#: cyberchimps/options/options-core.php:2485
+msgid "Images for layout."
+msgstr "Images for layout."
+
+#: cyberchimps/options/options-core.php:1926
+#: cyberchimps/options/options-core.php:1935
+#: cyberchimps/options/options-core.php:1948
+#: cyberchimps/options/options-core.php:1957
+msgid "Select a Category"
+msgstr "Select a Category"
+
+#: cyberchimps/options/options-core.php:1913
+msgid "Images"
+msgstr "Images"
+
+#: cyberchimps/options/options-core.php:1856
+msgid "Button Text Color"
+msgstr "Button Text Colour"
+
+#: cyberchimps/options/options-core.php:1846
+msgid "Button Color"
+msgstr "Button Colour"
+
+#: cyberchimps/options/options-core.php:1869
+msgid "HTML Box"
+msgstr "HTML Box"
+
+#: cyberchimps/options/options-core.php:1872
+msgid "Enter your custom HTML code here"
+msgstr "Enter your custom HTML code here"
+
+#: cyberchimps/options/options-core.php:1893
+msgid "Custom Title"
+msgstr "Custom Title"
+
+#: cyberchimps/options/options-core.php:1826
+msgid "Title Color"
+msgstr "Title Colour"
+
+#: cyberchimps/options/options-core.php:1816
+msgid "Background Color"
+msgstr "Background Colour"
+
+#: cyberchimps/options/options-core.php:1806
+msgid "Button"
+msgstr "Button"
+
+#: cyberchimps/options/options-core.php:1797
+msgid "Custom Callout Options"
+msgstr "Custom Callout Options"
+
+#: cyberchimps/options/options-core.php:1739
+msgid "Slider Arrows"
+msgstr "Slider Arrows"
+
+#: cyberchimps/options/options-core.php:1750
+msgid "Callout Title"
+msgstr "Callout Title"
+
+#: cyberchimps/options/options-core.php:1752
+msgid "%1$s's Call Out Element"
+msgstr "%1$s's Call Out Element"
+
+#: cyberchimps/options/options-core.php:1759
+msgid "Callout Text"
+msgstr "Callout Text"
+
+#: cyberchimps/options/options-core.php:1761
+msgid "Use %1$s's Call Out section on any page where you want to deliver an important message to your customer or client."
+msgstr "Use %1$s's Call Out section on any page where you want to deliver an important message to your customer or client."
+
+#: cyberchimps/options/options-core.php:1768
+msgid "Callout Button"
+msgstr "Callout Button"
+
+#: cyberchimps/options/options-core.php:1777
+msgid "Callout Button Text"
+msgstr "Callout Button Text"
+
+#: cyberchimps/options/options-core.php:1780
+msgid "Click Here"
+msgstr "Click Here"
+
+#: cyberchimps/options/options-core.php:1787
+msgid "Callout Button URL"
+msgstr "Callout Button URL"
+
+#: cyberchimps/options/options-core.php:1689
+#: cyberchimps/options/options-core.php:1700
+msgid "Custom Categories"
+msgstr "Custom Categories"
+
+#: cyberchimps/options/options-core.php:1711
+msgid "Number of Featured Blog Posts"
+msgstr "Number of Featured Blog Posts"
+
+#: cyberchimps/options/options-core.php:1720
+msgid "Slider Height"
+msgstr "Slider Height"
+
+#: cyberchimps/options/options-core.php:1730
+msgid "Slider Speed "
+msgstr "Slider Speed "
+
+#: cyberchimps/options/options-core.php:1677
+#: cyberchimps/options/options-core.php:1903
+msgid "Post Categories"
+msgstr "Post Categories"
+
+#: cyberchimps/options/options-core.php:1670
+msgid "Custom"
+msgstr "Custom"
+
+#: cyberchimps/options/options-core.php:1669
+msgid "Posts"
+msgstr "Posts"
+
+#: cyberchimps/options/options-core.php:1663
+msgid "Slider Type"
+msgstr "Slider Type"
+
+#: cyberchimps/options/options-core.php:1656
+msgid "Half"
+msgstr "Half"
+
+#: cyberchimps/options/options-core.php:1655
+msgid "Full"
+msgstr "Full"
+
+#: cyberchimps/options/options-core.php:1570
+msgid "Slider Image 3"
+msgstr "Slider Image 3"
+
+#: cyberchimps/options/options-core.php:1580
+#: cyberchimps/options/options-customizer.php:903
+msgid "Slide 3 URL"
+msgstr "Slide 3 URL"
+
+#: cyberchimps/options/options-core.php:1597
+msgid "Images per Row"
+msgstr "Images per Row"
+
+#: cyberchimps/options/options-core.php:1612
+#: cyberchimps/options/options-core.php:1621
+msgid "Portfolio Category"
+msgstr "Portfolio Category"
+
+#: cyberchimps/options/options-core.php:1624
+#: cyberchimps/options/options-core.php:1704
+#: cyberchimps/options/options-core.php:1938
+#: cyberchimps/options/options-core.php:1960
+msgid "You need to create a Category"
+msgstr "You need to create a Category"
+
+#: cyberchimps/options/options-core.php:1650
+msgid "Slider Size"
+msgstr "Slider Size"
+
+#: cyberchimps/options/options-core.php:1532
+msgid "Slider Image 1"
+msgstr "Slider Image 1"
+
+#: cyberchimps/options/options-core.php:1551
+msgid "Slider Image 2"
+msgstr "Slider Image 2"
+
+#: cyberchimps/options/options-core.php:1561
+#: cyberchimps/options/options-customizer.php:878
+msgid "Slide 2 URL"
+msgstr "Slide 2 URL"
+
+#: cyberchimps/options/options-core.php:1223
+#: cyberchimps/options/options-customizer.php:1170
+msgid "First Box Text"
+msgstr "First Box Text"
+
+#: cyberchimps/options/options-core.php:1237
+#: cyberchimps/options/options-customizer.php:1185
+msgid "Second Box Image"
+msgstr "Second Box Image"
+
+#: cyberchimps/options/options-core.php:1258
+#: cyberchimps/options/options-customizer.php:1210
+msgid "Second Box Text"
+msgstr "Second Box Text"
+
+#: cyberchimps/options/options-core.php:1272
+#: cyberchimps/options/options-customizer.php:1225
+msgid "Third Box Image"
+msgstr "Third Box Image"
+
+#: cyberchimps/options/options-core.php:1293
+#: cyberchimps/options/options-customizer.php:1250
+msgid "Third Box Text"
+msgstr "Third Box Text"
+
+#: cyberchimps/options/options-core.php:1309
+msgid "Portfolio Upgrade"
+msgstr "Portfolio Upgrade"
+
+#: cyberchimps/options/options-core.php:1312
+#: cyberchimps/options/options-customizer.php:918
+msgid "Portfolio Lite limits you to a total of 4 items throughout your whole site. Upgrade to %1$s to be able to create as many portfolio items as you like. Categorize them and display each category on a different page."
+msgstr "Portfolio Lite limits you to a total of 4 items throughout your whole site. Upgrade to %1$s to be able to create as many portfolio items as you like. Categorize them and display each category on a different page."
+
+#: cyberchimps/options/options-core.php:1324
+#: cyberchimps/options/options-customizer.php:929
+#: elements/portfolio-lite.php:40
+msgid "First Portfolio Image"
+msgstr "First Portfolio Image"
+
+#: cyberchimps/options/options-core.php:1335
+#: cyberchimps/options/options-customizer.php:941
+#: elements/portfolio-lite.php:47
+msgid "First Portfolio Image Caption"
+msgstr "First Portfolio Image Caption"
+
+#: cyberchimps/options/options-core.php:1345 elements/portfolio-lite.php:54
+msgid "First Porfolio Link"
+msgstr "First Porfolio Link"
+
+#: cyberchimps/options/options-core.php:1368
+#: cyberchimps/options/options-customizer.php:980
+#: elements/portfolio-lite.php:70
+msgid "Second Portfolio Image"
+msgstr "Second Portfolio Image"
+
+#: cyberchimps/options/options-core.php:1379
+#: cyberchimps/options/options-customizer.php:992
+#: elements/portfolio-lite.php:77
+msgid "Second Portfolio Image Caption"
+msgstr "Second Portfolio Image Caption"
+
+#: cyberchimps/options/options-core.php:1389 elements/portfolio-lite.php:84
+msgid "Second Porfolio Link"
+msgstr "Second Porfolio Link"
+
+#: cyberchimps/options/options-core.php:1412
+#: cyberchimps/options/options-customizer.php:1031
+#: elements/portfolio-lite.php:100
+msgid "Third Portfolio Image"
+msgstr "Third Portfolio Image"
+
+#: cyberchimps/options/options-core.php:1423
+#: cyberchimps/options/options-customizer.php:1043
+#: elements/portfolio-lite.php:107
+msgid "Third Portfolio Image Caption"
+msgstr "Third Portfolio Image Caption"
+
+#: cyberchimps/options/options-core.php:1433 elements/portfolio-lite.php:114
+msgid "Third Porfolio Link"
+msgstr "Third Porfolio Link"
+
+#: cyberchimps/options/options-core.php:1456 elements/portfolio-lite.php:130
+msgid "Fourth Portfolio Image"
+msgstr "Fourth Portfolio Image"
+
+#: cyberchimps/options/options-core.php:1467 elements/portfolio-lite.php:137
+msgid "Fourth Portfolio Image Caption"
+msgstr "Fourth Portfolio Image Caption"
+
+#: cyberchimps/options/options-core.php:1477 elements/portfolio-lite.php:144
+msgid "Fourth Porfolio Link"
+msgstr "Fourth Porfolio Link"
+
+#: cyberchimps/options/options-core.php:1498
+#: cyberchimps/options/options-core.php:1631
+msgid "Portfolio Title"
+msgstr "Portfolio Title"
+
+#: cyberchimps/options/options-core.php:1520
+msgid "Slider Upgrade"
+msgstr "Slider Upgrade"
+
+#: cyberchimps/options/options-core.php:1523
+#: cyberchimps/options/options-customizer.php:831
+msgid "Slider Lite limits you to a total of 3 images throughout your whole site. Upgrade to %1$s to be able to create more images. Categorize them and display each category on a different page."
+msgstr "Slider Lite limits you to a total of 3 images throughout your whole site. Upgrade to %1$s to be able to create more images. Categorize them and display each category on a different page."
+
+#: cyberchimps/options/options-core.php:1542
+#: cyberchimps/options/options-customizer.php:853
+msgid "Slide 1 URL"
+msgstr "Slide 1 URL"
+
+#: cyberchimps/options/options-core.php:1213
+#: cyberchimps/options/options-core.php:1248
+#: cyberchimps/options/options-core.php:1283
+#: cyberchimps/options/options-core.php:1354
+#: cyberchimps/options/options-core.php:1398
+#: cyberchimps/options/options-core.php:1442
+#: cyberchimps/options/options-core.php:1486 elements/portfolio-lite.php:61
+#: elements/portfolio-lite.php:91 elements/portfolio-lite.php:121
+#: elements/portfolio-lite.php:151
+msgid "Link URL"
+msgstr "Link URL"
+
+#: cyberchimps/options/options-core.php:1191
+#: cyberchimps/options/options-core.php:1313
+#: cyberchimps/options/options-core.php:1524
+#: cyberchimps/options/options-customizer.php:831
+#: cyberchimps/options/options-customizer.php:918
+#: cyberchimps/options/options-customizer.php:1134
+msgid "Pro"
+msgstr "Pro"
+
+#: cyberchimps/options/options-core.php:1133
+#: cyberchimps/options/options-core.php:2297
+#: cyberchimps/options/options-core.php:2390
+#: cyberchimps/options/options-customizer.php:766
+#: cyberchimps/options/options-customizer.php:1336
+#: cyberchimps/options/options-customizer.php:1459
+msgid "Post Byline Author"
+msgstr "Post Byline Author"
+
+#: cyberchimps/options/options-core.php:1143
+#: cyberchimps/options/options-core.php:2307
+#: cyberchimps/options/options-core.php:2400
+#: cyberchimps/options/options-customizer.php:778
+#: cyberchimps/options/options-customizer.php:1348
+#: cyberchimps/options/options-customizer.php:1471
+msgid "Post Byline Categories"
+msgstr "Post Byline Categories"
+
+#: cyberchimps/options/options-core.php:1153
+#: cyberchimps/options/options-core.php:2317
+#: cyberchimps/options/options-core.php:2410
+#: cyberchimps/options/options-customizer.php:790
+#: cyberchimps/options/options-customizer.php:1360
+#: cyberchimps/options/options-customizer.php:1483
+msgid "Post Byline Date"
+msgstr "Post By-line Date"
+
+#: cyberchimps/options/options-core.php:1163
+#: cyberchimps/options/options-core.php:2327
+#: cyberchimps/options/options-core.php:2420
+#: cyberchimps/options/options-customizer.php:802
+#: cyberchimps/options/options-customizer.php:1372
+#: cyberchimps/options/options-customizer.php:1495
+msgid "Post Byline Comments"
+msgstr "Post By-line Comments"
+
+#: cyberchimps/options/options-core.php:1173
+#: cyberchimps/options/options-core.php:2338
+#: cyberchimps/options/options-core.php:2430
+#: cyberchimps/options/options-customizer.php:814
+#: cyberchimps/options/options-customizer.php:1384
+#: cyberchimps/options/options-customizer.php:1507
+msgid "Post Byline Tags"
+msgstr "Post By-line Tags"
+
+#: cyberchimps/options/options-core.php:1187
+msgid "Boxes Upgrade"
+msgstr "Boxes Upgrade"
+
+#: cyberchimps/options/options-core.php:1190
+#: cyberchimps/options/options-customizer.php:1134
+msgid "Boxes Lite limits you to a total of 3 boxes throughout your whole site. Upgrade to %1$s to be able to create as many boxes as you like. Categorize them and display each category on a different page."
+msgstr "Boxes Lite limits you to a total of 3 boxes throughout your whole site. Upgrade to %1$s to be able to create as many boxes as you like. Categorize them and display each category on a different page."
+
+#: cyberchimps/options/options-core.php:1202
+#: cyberchimps/options/options-customizer.php:1145
+msgid "First Box Image"
+msgstr "First Box Image"
+
+#: cyberchimps/options/options-core.php:1122
+#: cyberchimps/options/options-core.php:2279
+#: cyberchimps/options/options-core.php:2380
+#: cyberchimps/options/options-customizer.php:754
+#: cyberchimps/options/options-customizer.php:1312
+#: cyberchimps/options/options-customizer.php:1447
+msgid "Featured Images"
+msgstr "Featured Images"
+
+#: cyberchimps/options/options-core.php:1112
+#: cyberchimps/options/options-core.php:2473
+#: cyberchimps/options/options-customizer.php:742
+#: cyberchimps/options/options-customizer.php:1571
+msgid "Excerpt Length"
+msgstr "Excerpt Length"
+
+#: cyberchimps/options/options-core.php:1074
+#: cyberchimps/options/options-customizer.php:693
+msgid "Blog Title Text"
+msgstr "Blog Title Text"
+
+#: cyberchimps/options/options-core.php:1084
+msgid "Post Formats Icons"
+msgstr "Post Formats Icons"
+
+#: cyberchimps/options/options-core.php:1093
+#: cyberchimps/options/options-core.php:2371
+#: cyberchimps/options/options-core.php:2455
+#: cyberchimps/options/options-customizer.php:718
+#: cyberchimps/options/options-customizer.php:1435
+#: cyberchimps/options/options-customizer.php:1545
+msgid "Post Excerpts"
+msgstr "Post Excerpts"
+
+#: cyberchimps/options/options-core.php:1102
+#: cyberchimps/options/options-core.php:2463
+#: cyberchimps/options/options-customizer.php:730
+#: cyberchimps/options/options-customizer.php:1558
+msgid "Read More Text"
+msgstr "Read More Text"
+
+#: cyberchimps/options/options-core.php:1065
+#: cyberchimps/options/options-customizer.php:679
+msgid "Blog Title"
+msgstr "Blog Title"
+
+#: cyberchimps/options/options-core.php:1016
+#: cyberchimps/options/options-customizer.php:628
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: cyberchimps/options/options-core.php:1032
+msgid "Drag & Drop Blog Elements"
+msgstr "Drag & Drop Blog Elements"
+
+#: cyberchimps/options/options-core.php:997
+#: cyberchimps/options/options-customizer.php:607
+msgid "RSS URL"
+msgstr "RSS URL"
+
+#: cyberchimps/options/options-core.php:1008
+msgid "Instagram"
+msgstr "Instagram"
+
+#: cyberchimps/options/options-core.php:989
+msgid "RSS"
+msgstr "RSS"
+
+#: cyberchimps/options/options-core.php:979
+#: cyberchimps/options/options-customizer.php:586
+msgid "Email Address"
+msgstr "Email Address"
+
+#: cyberchimps/options/options-core.php:971
+msgid "Email"
+msgstr "Email"
+
+#: cyberchimps/options/options-core.php:941
+#: cyberchimps/options/options-customizer.php:544
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: cyberchimps/options/options-core.php:952
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: cyberchimps/options/options-core.php:960
+#: cyberchimps/options/options-customizer.php:565
+msgid "Google Maps URL"
+msgstr "Google Maps URL"
+
+#: cyberchimps/options/options-core.php:933
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: cyberchimps/options/options-core.php:922
+msgid "Flickr URL"
+msgstr "Flickr URL"
+
+#: cyberchimps/options/options-core.php:903
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: cyberchimps/options/options-core.php:914
+msgid "Flickr"
+msgstr "Flickr"
+
+#: cyberchimps/options/options-core.php:884
+#: cyberchimps/options/options-customizer.php:481
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: cyberchimps/options/options-core.php:895
+msgid "YouTube"
+msgstr "YouTube"
+
+#: cyberchimps/options/options-core.php:876
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: cyberchimps/options/options-core.php:865
+#: cyberchimps/options/options-customizer.php:460
+msgid "Google+ URL"
+msgstr "Google+ URL"
+
+#: cyberchimps/options/options-core.php:856
+msgid "Google+"
+msgstr "Google+"
+
+#: cyberchimps/options/options-core.php:845
+#: cyberchimps/options/options-customizer.php:439
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: cyberchimps/options/options-core.php:836
+msgid "Twitter"
+msgstr "Twitter"
+
+#: cyberchimps/options/options-core.php:825
+#: cyberchimps/options/options-customizer.php:416
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: cyberchimps/options/options-core.php:816
+msgid "Facebook"
+msgstr "Facebook"
+
+#: cyberchimps/options/options-core.php:737
+msgid "Favicon URL"
+msgstr "Favicon URL"
+
+#: cyberchimps/options/options-core.php:790
+msgid "Header Scripts"
+msgstr "Header Scripts"
+
+#: cyberchimps/options/options-core.php:768
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: cyberchimps/options/options-core.php:747
+msgid "Custom Apple touch icon"
+msgstr "Custom Apple touch icon"
+
+#: cyberchimps/options/options-core.php:755
+msgid "Apple Touch URL"
+msgstr "Apple Touch URL"
+
+#: cyberchimps/options/options-core.php:770
+msgid "Copy and paste your Google Analytics code here"
+msgstr "Copy and paste your Google Analytics code here"
+
+#: cyberchimps/options/options-core.php:778
+msgid "Searchbar"
+msgstr "Searchbar"
+
+#: cyberchimps/options/options-core.php:792
+msgid "Please add script tags"
+msgstr "Please add script tags"
+
+#: cyberchimps/options/options-core.php:801
+#: cyberchimps/options/options-customizer.php:390
+msgid "Choose your icon style"
+msgstr "Choose your icon style"
+
+#: cyberchimps/options/options-core.php:729
+msgid "Custom Favicon"
+msgstr "Custom Favicon"
+
+#: cyberchimps/options/options-core.php:718
+msgid "Logo Image"
+msgstr "Logo Image"
+
+#: cyberchimps/options/options-core.php:719
+#: cyberchimps/options/options-core.php:738
+#: cyberchimps/options/options-core.php:756
+#: cyberchimps/options/options-core.php:1203
+#: cyberchimps/options/options-core.php:1238
+#: cyberchimps/options/options-core.php:1273
+#: cyberchimps/options/options-core.php:1325
+#: cyberchimps/options/options-core.php:1369
+#: cyberchimps/options/options-core.php:1413
+#: cyberchimps/options/options-core.php:1457
+#: cyberchimps/options/options-core.php:1533
+#: cyberchimps/options/options-core.php:1552
+#: cyberchimps/options/options-core.php:1571 elements/parallax.php:105
+#: elements/parallax.php:127 elements/parallax.php:149
+msgid "Enter URL or upload file"
+msgstr "Enter URL or upload file"
+
+#: cyberchimps/options/options-core.php:709
+msgid "Custom Logo"
+msgstr "Custom Logo"
+
+#: cyberchimps/options/options-core.php:699
+msgid "Enter URL"
+msgstr "Enter URL"
+
+#: cyberchimps/options/options-core.php:698
+msgid "URL"
+msgstr "URL"
+
+#: cyberchimps/options/options-core.php:690
+#: cyberchimps/options/options-customizer.php:256
+msgid "Custom Logo URL"
+msgstr "Custom Logo URL"
+
+#: cyberchimps/options/options-core.php:681
+msgid "Logo"
+msgstr "Logo"
+
+#: cyberchimps/options/options-core.php:569
+msgid "Select link hover color"
+msgstr "Select link hover color"
+
+#: cyberchimps/options/options-core.php:618
+msgid "Typography Options"
+msgstr "Typography Options"
+
+#: cyberchimps/options/options-core.php:628
+#: cyberchimps/options/options-customizer.php:1895
+msgid "Enter Google font"
+msgstr "Enter Google font"
+
+#: cyberchimps/options/options-core.php:632
+#: cyberchimps/options/options-core.php:663
+msgid "Google font names are case sensitive"
+msgstr "Google font names are case sensitive"
+
+#: cyberchimps/options/options-core.php:638
+msgid "Demo Text"
+msgstr "Demo Text"
+
+#: cyberchimps/options/options-core.php:648
+#: cyberchimps/options/options-customizer.php:1909
+msgid "Font Family for headings"
+msgstr "Font Family for headings"
+
+#: cyberchimps/options/options-core.php:659
+#: cyberchimps/options/options-customizer.php:1924
+msgid "Google font for headings"
+msgstr "Google font for headings"
+
+#: cyberchimps/options/options-core.php:672
+msgid "Header Drag/Drop"
+msgstr "Header Drag/Drop"
+
+#: cyberchimps/options/options-core.php:680
+msgid "Logo + Search"
+msgstr "Logo + Search"
+
+#: cyberchimps/options/options-core.php:568
+#: cyberchimps/options/options-customizer.php:1788
+msgid "Link Hover Color"
+msgstr "Link Hover Colour"
+
+#: cyberchimps/options/options-core.php:559
+msgid "Select link color"
+msgstr "Select link colour"
+
+#: cyberchimps/options/options-core.php:558
+#: cyberchimps/options/options-customizer.php:1775
+msgid "Link Color"
+msgstr "Link Colour"
+
+#: cyberchimps/options/options-core.php:549
+msgid "Select text color"
+msgstr "Select text colour"
+
+#: cyberchimps/options/options-core.php:548
+#: cyberchimps/options/options-core.php:1836
+#: cyberchimps/options/options-customizer.php:1762
+msgid "Text Color"
+msgstr "Text Colour"
+
+#: cyberchimps/options/options-core.php:434
+msgid "enter the width of your site in pixels"
+msgstr "enter the width of your site in pixels"
+
+#: cyberchimps/options/options-core.php:525
+msgid "Select a Skin Color"
+msgstr "Select a Skin Colour"
+
+#: cyberchimps/options/options-core.php:430
+#: cyberchimps/options/options-customizer.php:1723
+msgid "Max Width"
+msgstr "Max Width"
+
+#: cyberchimps/options/options-core.php:403
+#: cyberchimps/options/options-customizer.php:1686
+msgid "Responsive Videos"
+msgstr "Responsive Videos"
+
+#: cyberchimps/options/options-core.php:411
+#: cyberchimps/options/options-customizer.php:1697
+msgid "Gallery Lightbox"
+msgstr "Gallery Lightbox"
+
+#: cyberchimps/options/options-core.php:420
+#: cyberchimps/options/options-customizer.php:1708
+msgid "Wide Sidebar"
+msgstr "Wide Sidebar"
+
+#: cyberchimps/options/options-core.php:424
+#: cyberchimps/options/options-customizer.php:1710
+msgid "Only works on layouts with 1 sidebar"
+msgstr "Only works on layouts with 1 sidebar"
+
+#: cyberchimps/options/options-core.php:394
+#: cyberchimps/options/options-customizer.php:1675
+msgid "Responsive Design"
+msgstr "Responsive Design"
+
+#: cyberchimps/options/options-core.php:383
+msgid "CyberChimps Help"
+msgstr "CyberChimps Help"
+
+#: cyberchimps/options/options-core.php:288
+msgid "Tags"
+msgstr "Tags"
+
+#: cyberchimps/options/options-core.php:286
+msgid "Date"
+msgstr "Date"
+
+#: cyberchimps/options/options-core.php:285 footer.php:43 sidebar-left.php:39
+#: sidebar-right.php:39 sidebar.php:39
+msgid "Categories"
+msgstr "Categories"
+
+#: cyberchimps/options/options-core.php:284
+msgid "Author"
+msgstr "Author"
+
+#: cyberchimps/options/options-core.php:252
+msgid "Footer Options"
+msgstr "Footer Options"
+
+#: cyberchimps/options/options-core.php:238
+#: cyberchimps/options/options-customizer.php:1520
+msgid "Search"
+msgstr "Search"
+
+#: cyberchimps/options/options-core.php:232
+#: cyberchimps/options/options-customizer.php:1398
+msgid "Archive"
+msgstr "archive"
+
+#: cyberchimps/options/options-core.php:226
+#: cyberchimps/options/options-customizer.php:1275
+msgid "Single Post"
+msgstr "Single Post"
+
+#: cyberchimps/options/options-core.php:133
+msgid "Drag & Drop"
+msgstr "Drag & Drop"
+
+#: cyberchimps/options/options-core.php:139
+msgid "Blog Options"
+msgstr "Blog Options"
+
+#: cyberchimps/options/options-core.php:147
+#: cyberchimps/options/options-customizer.php:830
+msgid "Blog Slider Lite"
+msgstr "Blog Slider Lite"
+
+#: cyberchimps/options/options-core.php:153 elements/portfolio-lite.php:160
+msgid "Portfolio Lite Options"
+msgstr "Portfolio Lite Options"
+
+#: cyberchimps/options/options-core.php:159
+#: cyberchimps/options/options-customizer.php:1133 elements/init.php:48
+#: elements/init.php:61
+msgid "Boxes Lite"
+msgstr "Boxes Lite"
+
+#: cyberchimps/options/options-core.php:169
+msgid "Blog Slider"
+msgstr "Blog Slider"
+
+#: cyberchimps/options/options-core.php:175
+msgid "Callout Options"
+msgstr "Callout Options"
+
+#: cyberchimps/options/options-core.php:181
+msgid "HTML Box Options"
+msgstr "HTML Box Options"
+
+#: cyberchimps/options/options-core.php:187
+msgid "Carousel Options"
+msgstr "Carousel Options"
+
+#: cyberchimps/options/options-core.php:193
+msgid "Portfolio Pro Options"
+msgstr "Portfolio Pro Options"
+
+#: cyberchimps/options/options-core.php:199
+msgid "Recent Posts Options"
+msgstr "Recent Posts Options"
+
+#: cyberchimps/options/options-core.php:206
+msgid "Boxes Options"
+msgstr "Boxes Options"
+
+#: cyberchimps/options/options-core.php:125
+msgid "Social Icons"
+msgstr "Social Icons"
+
+#: cyberchimps/options/options-core.php:119
+msgid "Header Options"
+msgstr "Header Options"
+
+#: cyberchimps/options/options-core.php:113
+msgid "Header Drag &#38; Drop"
+msgstr "Header Drag &#38; Drop"
+
+#: cyberchimps/options/options-core.php:99
+#: cyberchimps/options/options-customizer.php:1811
+msgid "Typography"
+msgstr "Typography"
+
+#: cyberchimps/options/options-core.php:93
+msgid "Custom Colors"
+msgstr "Custom Colours"
+
+#: cyberchimps/options/options-core.php:79
+msgid "Layout Options"
+msgstr "Layout Options"
+
+#: cyberchimps/options/options-core.php:49
+#: cyberchimps/options/options-customizer.php:1635
+msgid "Footer"
+msgstr "Footer"
+
+#: cyberchimps/options/options-core.php:44
+msgid "Templates"
+msgstr "Templates"
+
+#: cyberchimps/options/options-core.php:39
+#: cyberchimps/options/options-customizer.php:640
+#: cyberchimps/options/options-customizer.php:687
+msgid "Blog"
+msgstr "Blog"
+
+#: cyberchimps/options/options-core.php:34
+#: cyberchimps/options/options-customizer.php:237
+msgid "Header"
+msgstr "Header"
+
+#: cyberchimps/options/options-core.php:29
+#: cyberchimps/options/options-customizer.php:1732
+msgid "Design"
+msgstr "Design"
+
+#: cyberchimps/options/options-core.php:24
+msgid "Help"
+msgstr "Help"
+
+#: cyberchimps/options/meta-box-class/my-meta-box-class.php:2088
+msgid "or enter URL"
+msgstr "or enter URL"
+
+#: cyberchimps/options/meta-box-class/my-meta-box-class.php:2087
+#: cyberchimps/options/options-medialibrary-uploader.php:89
+msgid "Upload"
+msgstr "Upload"
+
+#: cyberchimps/options/meta-box-class/my-meta-box-class.php:1935
+#: cyberchimps/options/meta-box-class/my-meta-box-class.php:1945
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr "Sorry, you cannot upload this file type for this field."
+
+#: cyberchimps/options/meta-box-class/my-meta-box-class.php:431
+msgid "Add"
+msgstr "Add"
+
+#: cyberchimps/options/meta-box-class/my-meta-box-class.php:418
+#: cyberchimps/options/meta-box-class/my-meta-box-class.php:460
+msgid "Remove"
+msgstr "Remove"
+
+#: cyberchimps/options/meta-box-class/meta-box.php:132
+msgid "Custom Feature Slides"
+msgstr "Custom Feature Slides"
+
+#: cyberchimps/options/meta-box-class/meta-box.php:122
+msgid "Caption"
+msgstr "Caption"
+
+#: cyberchimps/options/meta-box-class/meta-box.php:115
+#: cyberchimps/options/options-core.php:1508
+#: cyberchimps/options/options-core.php:1639
+#: cyberchimps/options/options-core.php:1884
+msgid "Title"
+msgstr "Title"
+
+#: cyberchimps/options/meta-box-class/meta-box.php:75
+msgid "Page Options"
+msgstr "Page Options"
+
+#: cyberchimps/options/meta-box-class/meta-box.php:66
+msgid "Need Help?"
+msgstr "Need Help?"
+
+#: cyberchimps/options/meta-box-class/meta-box.php:96
+msgid "Slider Image"
+msgstr "Slider Image"
+
+#: cyberchimps/options/meta-box-class/meta-box.php:103
+msgid "Slider Caption"
+msgstr "Slider Caption"
+
+#: cyberchimps/options/meta-box-class/meta-box.php:109
+msgid "Custom Slide Link"
+msgstr "Custom Slide Link"
+
+#: cyberchimps/options/meta-box-class/meta-box.php:67
+msgid "Visit the %s page options guide"
+msgstr "Visit the %s page options guide"
+
+#: cyberchimps/options/meta-box-class/meta-box.php:56
+#: cyberchimps/options/options-core.php:1042
+#: cyberchimps/options/options-customizer.php:917 elements/init.php:49
+#: elements/init.php:62
+msgid "Portfolio Lite"
+msgstr "Portfolio Lite"
+
+#: cyberchimps/options/meta-box-class/meta-box.php:58
+msgid "Twitter Bar"
+msgstr "Twitter Bar"
+
+#: cyberchimps/options/meta-box-class/meta-box.php:55 elements/init.php:63
+msgid "Page"
+msgstr "Page"
+
+#: cyberchimps/options/meta-box-class/meta-box.php:52
+msgid "Page Elements"
+msgstr "Page Elements"
+
+#: cyberchimps/options/meta-box-class/meta-box.php:45
+msgid "Page Title"
+msgstr "Page title"
+
+#: cyberchimps/options/meta-box-class/meta-box.php:34
+#: cyberchimps/options/options-core.php:1052
+#: cyberchimps/options/options-customizer.php:665
+msgid "Select Page Layout"
+msgstr "Select Page Layout"
+
+#: cyberchimps/init.php:169
+msgid "Sidebar Left"
+msgstr "Sidebar Left"
+
+#: cyberchimps/init.php:179
+msgid "Sidebar Right"
+msgstr "Sidebar Right"
+
+#: cyberchimps/init.php:188 cyberchimps/options/options-core.php:2518
+#: cyberchimps/options/options-customizer.php:1644
+msgid "Footer Widgets"
+msgstr "Footer widgets"
+
+#: cyberchimps/init.php:87
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: cyberchimps/hooks/blog-hooks.php:24
+#: cyberchimps/options/meta-box-class/meta-box.php:54
+#: cyberchimps/options/options-core.php:1036
+#: cyberchimps/options/options-core.php:1041
+msgid "Boxes"
+msgstr "Boxes"
+
+#: cyberchimps/functions.php:1352
+msgid "Events"
+msgstr "Events"
+
+#: cyberchimps/functions.php:1334
+msgid "The Events Calendar"
+msgstr "The Events Calendar"
+
+#: cyberchimps/hooks/blog-hooks.php:121
+msgid "Our Blog"
+msgstr "Our Blog"
+
+#: cyberchimps/hooks/blog-hooks.php:25
+#: cyberchimps/options/options-core.php:1037
+#: cyberchimps/options/options-core.php:1043 elements/init.php:50
+msgid "Post Page"
+msgstr "Post Page"
+
+#: cyberchimps/hooks/header-hooks.php:21
+#: cyberchimps/options/options-core.php:675
+#: cyberchimps/options/options-core.php:679
+msgid "Logo + Icons"
+msgstr "Logo + Icons"
+
+#: cyberchimps/inc/cc-custom-background.php:93
+msgid "Or choose one of CyberChimps background images"
+msgstr "Or choose one of CyberChimps background images"
+
+#: cyberchimps/functions.php:1340 cyberchimps/functions.php:1361
+msgid "Digital Downloads"
+msgstr "Digital Downloads"
+
+#: cyberchimps/functions.php:1385
+msgid "Events Plugin Options"
+msgstr "Events Plugin Options"
+
+#: cyberchimps/functions.php:1388
+msgid "Please activate The Events Calendar plugin"
+msgstr "Please activate The Events Calendar plugin"
+
+#: cyberchimps/functions.php:1392
+msgid "Install Events Calendar Plugin"
+msgstr "Install Events Calendar Plugin"
+
+#: cyberchimps/functions.php:1417
+msgid "Digital Downloads Settings"
+msgstr "Digital Downloads Settings"
+
+#: cyberchimps/functions.php:1420
+msgid "Please activate Easy Digital Downloads plugin"
+msgstr "Please activate Easy Digital Downloads plugin"
+
+#: cyberchimps/functions.php:1424
+msgid "Install Easy Digital Downloads Plugin"
+msgstr "Install Easy Digital Downloads Plugin"
+
+#: cyberchimps/hooks/blog-hooks.php:23
+#: cyberchimps/options/meta-box-class/meta-box.php:57
+#: cyberchimps/options/options-core.php:1035
+#: cyberchimps/options/options-core.php:1044 elements/init.php:51
+#: elements/init.php:64
+msgid "Slider Lite"
+msgstr "Slider Lite"
+
+#: cyberchimps/functions.php:1322
+msgid "Add Ons"
+msgstr "Add Ons"
+
+#: cyberchimps/functions.php:1188 cyberchimps/options/options-init.php:128
+msgid "Options"
+msgstr "Options"
+
+#: cyberchimps/functions.php:1106
+msgid "Upgrade to %1$s"
+msgstr "Upgrade to %1$s"
+
+#: cyberchimps/functions.php:1113
+msgid "For even more amazing new features, upgrade to %1$s which includes a slider with customizable features, an image carousel, widgetized boxes, a callout section, expanded typography (including Google Fonts), additional color skins, and many more powerful new features. Visit %2$s to learn more!"
+msgstr "For even more amazing new features, upgrade to %1$s which includes a slider with customizable features, an image carousel, widgetized boxes, a callout section, expanded typography (including Google Fonts), additional colour skins, and many more powerful new features. Visit %2$s to learn more!"
+
+#: cyberchimps/functions.php:1137
+msgid "Welcome to %1$s! Learn more now about upgrading to %2$s today."
+msgstr "Welcome to %1$s! Learn more now about upgrading to %2$s today."
+
+#: cyberchimps/functions.php:1094 cyberchimps/options/options-init.php:136
+msgid "Support"
+msgstr "Support"
+
+#: cyberchimps/functions.php:1088 cyberchimps/options/options-init.php:138
+msgid "Instructions"
+msgstr "Instructions"
+
+#: cyberchimps/functions.php:920 cyberchimps/functions.php:962
+#: cyberchimps/options/options-core.php:1106
+#: cyberchimps/options/options-customizer.php:1560
+msgid "Read More..."
+msgstr "Read more..."
+
+#: cyberchimps/functions.php:759
+msgid "Page %s"
+msgstr "Page %s"
+
+#: cyberchimps/functions.php:748
+msgid "Not Found"
+msgstr "Not Found"
+
+#: cyberchimps/functions.php:722
+msgid "Author Archives"
+msgstr "Author Archives"
+
+#: cyberchimps/functions.php:734
+msgid "Shop"
+msgstr "Shop"
+
+#: cyberchimps/functions.php:743
+msgid "Search for &quot; %s &quot;"
+msgstr "Search for &quot; %s &quot;"
+
+#: cyberchimps/functions.php:585 cyberchimps/options/options-core.php:287
+msgid "Comments"
+msgstr "Comments"
+
+#: cyberchimps/functions.php:585
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: cyberchimps/functions.php:582 cyberchimps/functions.php:595
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: cyberchimps/functions.php:557
+msgid "Tags: %s"
+msgstr "Tags: %s"
+
+#: cyberchimps/functions.php:529
+msgid "Posted in %s"
+msgstr "Posted in %s"
+
+#: cyberchimps/functions.php:498
+msgid "by %s"
+msgstr "By %s"
+
+#: cyberchimps/functions.php:494
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: cyberchimps/functions.php:462
+msgid "Posted on %s"
+msgstr "Posted on %s"
+
+#: content.php:141 image.php:55 image.php:166
+msgid "Edit"
+msgstr "Edit"
+
+#: content.php:72 content.php:96 content.php:119 image.php:92
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content.php:71 content.php:95 content.php:118
+msgid "Continue reading"
+msgstr "Continue reading "
+
+#: content.php:34 content.php:50 cyberchimps/functions.php:616
+msgid "Permalink to %s"
+msgstr "Permalink to %s"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:45 comments.php:66
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:44 comments.php:65
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:42 comments.php:63
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:35
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: archive.php:73 cyberchimps/functions.php:737 footer.php:36
+#: sidebar-left.php:32 sidebar-right.php:32 sidebar.php:32
+msgid "Archives"
+msgstr "Archives"
+
+#: archive.php:69 cyberchimps/functions.php:731
+msgid "Yearly Archives: %s"
+msgstr "Yearly Archives: %s"
+
+#: archive.php:65 cyberchimps/functions.php:728
+msgid "Monthly Archives: %s"
+msgstr "Monthly Archives: %s"
+
+#: archive.php:61 cyberchimps/functions.php:725
+msgid "Daily Archives: %s"
+msgstr "Daily Archives: %s"
+
+#: archive.php:52
+msgid "Author Archives: %s"
+msgstr "Author Archives: %s"
+
+#: archive.php:44 cyberchimps/functions.php:719
+msgid "Tag Archives: %s"
+msgstr "Tag Archives: %s"
+
+#: archive.php:40 cyberchimps/functions.php:716
+msgid "Category Archives: %s"
+msgstr "Category Archives: %s"
+
+#: 404.php:48
+msgid "It looks like nothing was found at this location. Maybe try searching for it?"
+msgstr "It looks like nothing was found at this location. Maybe try searching for it?"
+
+#: 404.php:40
+msgid "Oops! That page cannot be found."
+msgstr "Oops! That page cannot be found."
+
+#. Author of the plugin/theme
+msgid "CyberChimps"
+msgstr "CyberChimps"
+
+#. Author URI of the plugin/theme
+msgid "http://www.cyberchimps.com/"
+msgstr "http://www.cyberchimps.com/"
+
+#. Theme URI of the plugin/theme
+msgid "http://cyberchimps.com/fresh-lite/"
+msgstr "http://cyberchimps.com/fresh-lite/"

@@ -1,0 +1,835 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Timeline\n"
+"POT-Creation-Date: 2016-08-27 03:10+0700\n"
+"PO-Revision-Date: 2016-08-27 03:10+0700\n"
+"Last-Translator: \n"
+"Language-Team: Ex Themes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-timeline/inc/class-timeline-post-type.php:12
+#: wp-timeline/inc/class-timeline-post-type.php:13
+#: wp-timeline/inc/class-timeline-post-type.php:24
+#: wp-timeline/inc/admin/class-plugin-settings.php:37
+msgid "Timeline"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:14
+#: wp-timeline/inc/class-timeline-post-type.php:15
+msgid "Add New Timeline"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:16
+msgid "Edit Timeline"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:17
+msgid "New Timeline"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:18
+msgid "All Timelines"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:19
+msgid "View Timeline"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:20
+msgid "Search Timeline"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:21
+msgid "No Timeline found"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:22
+msgid "No Timeline found in Trash"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:55
+#: wp-timeline/inc/class-timeline-post-type.php:56
+#: wp-timeline/shortcode/timeline-slider.php:145
+#: wp-timeline/shortcode/timeline.php:179
+msgid "Category"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:57
+msgid "Search"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:58
+msgid "All category"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:59
+msgid "Parent category"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:60
+msgid "Parent category:"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:61
+msgid "Edit category"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:62
+msgid "Update category"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:63
+msgid "Add New category"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:64
+msgid "Categories"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:81
+msgid "Sub label"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:81
+msgid "Enter Sub label"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:82
+#: wp-timeline/inc/admin/functions.php:6
+msgid "Custom Date"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:82
+msgid "Ex: 19 02 1945 or 19/02/1945"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:86
+msgid "Order in Timeline"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:86
+msgid "Enter number"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:87
+msgid "Icon"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:87
+msgid ""
+"Enter Font Awesome icon class (Ex: fa-star) (Only used for Timeline Listing "
+"shortcode)"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:88
+msgid "Color"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:89
+msgid "Custom metadata"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:93
+msgid "Timeline info"
+msgstr ""
+
+#: wp-timeline/inc/class-timeline-post-type.php:99
+msgid "Timeline custom date"
+msgstr ""
+
+#: wp-timeline/inc/functions-tag.php:102
+msgid "Share on Facebook"
+msgstr ""
+
+#: wp-timeline/inc/functions-tag.php:109 wp-timeline/inc/functions-tag.php:110
+#: wp-timeline/inc/functions-tag.php:118
+msgid "Share on Twitter"
+msgstr ""
+
+#: wp-timeline/inc/functions-tag.php:117
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: wp-timeline/inc/functions-tag.php:125 wp-timeline/inc/functions-tag.php:126
+msgid "Share on Tumblr"
+msgstr ""
+
+#: wp-timeline/inc/functions-tag.php:133 wp-timeline/inc/functions-tag.php:134
+msgid "Share on Google Plus"
+msgstr ""
+
+#: wp-timeline/inc/functions-tag.php:141 wp-timeline/inc/functions-tag.php:142
+msgid "Pin this"
+msgstr ""
+
+#: wp-timeline/inc/functions-tag.php:149 wp-timeline/inc/functions-tag.php:150
+msgid "Share on VK"
+msgstr ""
+
+#: wp-timeline/inc/functions-tag.php:157 wp-timeline/inc/functions-tag.php:158
+msgid "Email this"
+msgstr ""
+
+#: wp-timeline/inc/functions-tag.php:195 wp-timeline/inc/functions-tag.php:224
+msgid "View all posts in "
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:37
+#: wp-timeline/inc/admin/class-plugin-settings.php:61
+#: wp-timeline/inc/admin/class-plugin-settings.php:353
+msgid "Timeline Settings"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:71
+msgid "General"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:76
+msgid "Main color"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:77
+msgid "Choose main color of Timeline"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:84
+msgid "Main Font Family"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:85
+msgid ""
+"Enter Google font-family name here. For example, if you choose \"Source Sans "
+"Pro\" Google Font, enter Source Sans Pro"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:92
+msgid "Main Font Size"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:93
+msgid "Enter size of font, Ex: 13px"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:100
+msgid "Heading Font Family"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:101
+msgid ""
+"Enter Google font-family name here. For example, if you choose \"Source Sans "
+"Pro\" Google Font, enter Ubuntu"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:108
+msgid "Heading Font Size"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:109
+msgid "Enter size of font, Ex: 20px"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:116
+msgid "Meta Font Family"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:117
+msgid ""
+"Enter Google font-family name here. For example, if you choose \"Ubuntu\" "
+"Google Font, enter Ubuntu"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:124
+msgid "Meta Font Size"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:125
+msgid "Enter size of font, Ex: 12px"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:132
+msgid "Timeline slug"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:133
+msgid "Remember to save the permalink settings again in Settings > Permalinks"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:140
+msgid "Turn off Font Awesome"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:141
+msgid ""
+"Turn off loading plugin's Font Awesome. Check if your theme has already "
+"loaded this library"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:147
+msgid "Turn off Google Font"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:148
+msgid "Turn off loading plugin's Google Font."
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:155
+msgid "Custom css"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:160
+msgid "Paste your CSS code"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:161
+msgid "Add custom CSS code to the plugin without modifying files"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:168
+msgid "Paste your js code"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:169
+msgid "Add custom js code to the plugin without modifying files"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:177
+msgid "Front end Static Text"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:182
+#: wp-timeline/templates/content-slider.php:45
+#: wp-timeline/templates/content-timeline-center.php:57
+#: wp-timeline/templates/content-timeline.php:46
+msgid "Continue reading"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:183
+#: wp-timeline/inc/admin/class-plugin-settings.php:191
+msgid "Add your text to replace this static text"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:190
+#: wp-timeline/shortcode/timeline.php:81
+msgid "Load more"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:311
+msgid "Upload an image"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:311
+msgid "Use image"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:311
+msgid "Upload new image"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:312
+msgid "Remove image"
+msgstr ""
+
+#: wp-timeline/inc/admin/class-plugin-settings.php:369
+msgid "Save Settings"
+msgstr ""
+
+#: wp-timeline/inc/admin/functions.php:7
+#: wp-timeline/shortcode/timeline-slider.php:170
+#: wp-timeline/shortcode/timeline.php:204
+msgid "Order"
+msgstr ""
+
+#: wp-timeline/inc/admin/Meta-Boxes/class.cmb-meta-box.php:84
+msgid "Are you sure you want to delete this field?"
+msgstr ""
+
+#: wp-timeline/inc/admin/Meta-Boxes/classes.fields.php:68
+msgid "Add New"
+msgstr ""
+
+#: wp-timeline/inc/admin/Meta-Boxes/classes.fields.php:69
+msgid "Remove Field"
+msgstr ""
+
+#: wp-timeline/inc/admin/Meta-Boxes/classes.fields.php:464
+msgid "Add File"
+msgstr ""
+
+#: wp-timeline/inc/admin/Meta-Boxes/classes.fields.php:482
+#: wp-timeline/inc/admin/Meta-Boxes/classes.fields.php:556
+msgid "Remove"
+msgstr ""
+
+#: wp-timeline/inc/admin/Meta-Boxes/classes.fields.php:544
+msgid "Add Image"
+msgstr ""
+
+#: wp-timeline/inc/admin/Meta-Boxes/classes.fields.php:1094
+#: wp-timeline/shortcode/timeline-slider.php:198
+#: wp-timeline/shortcode/timeline.php:232
+#: wp-timeline/shortcode/timeline.php:291
+msgid "None"
+msgstr ""
+
+#: wp-timeline/inc/admin/Meta-Boxes/classes.fields.php:1124
+msgid "Type to search"
+msgstr ""
+
+#: wp-timeline/inc/admin/Meta-Boxes/classes.fields.php:1453
+msgid "Add New Group"
+msgstr ""
+
+#: wp-timeline/inc/admin/Meta-Boxes/classes.fields.php:1454
+msgid "Remove Group"
+msgstr ""
+
+#: wp-timeline/inc/admin/Meta-Boxes/classes.fields.php:1653
+msgid "Drag to set the exact location"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:86
+msgid "WP Timeline Slider"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:91
+#: wp-timeline/shortcode/timeline.php:117
+msgid "content"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:97
+#: wp-timeline/shortcode/timeline.php:123
+msgid "Style"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:100
+msgid "Left side"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:101
+msgid "Full Width"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:109
+msgid "Layout"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:112
+msgid "Horizontal"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:113
+msgid "Vertical"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:121
+#: wp-timeline/shortcode/timeline.php:147
+msgid "Post types"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:129
+#: wp-timeline/shortcode/timeline.php:155
+msgid "IDs"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:132
+#: wp-timeline/shortcode/timeline.php:158
+msgid "Specify post IDs to retrieve"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:137
+#: wp-timeline/shortcode/timeline.php:163
+msgid "Count"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:140
+#: wp-timeline/shortcode/timeline.php:166
+msgid "Number of posts"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:148
+#: wp-timeline/shortcode/timeline.php:182
+msgid "List of cat ID (or slug), separated by a comma"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:153
+#: wp-timeline/shortcode/timeline.php:187
+msgid "Tags"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:156
+#: wp-timeline/shortcode/timeline.php:190
+msgid "List of tags, separated by a comma"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:161
+#: wp-timeline/shortcode/timeline.php:195
+msgid "Custom Taxonomy"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:164
+#: wp-timeline/shortcode/timeline.php:198
+msgid "Name of custom taxonomy"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:173
+#: wp-timeline/shortcode/timeline.php:207
+msgid "DESC"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:174
+#: wp-timeline/shortcode/timeline.php:208
+msgid "ASC"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:182
+#: wp-timeline/shortcode/timeline.php:216
+msgid "Order by"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:185
+#: wp-timeline/shortcode/timeline.php:219
+msgid "Date"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:186
+#: wp-timeline/shortcode/timeline.php:220
+msgid "ID"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:187
+#: wp-timeline/shortcode/timeline.php:221
+msgid "Author"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:188
+#: wp-timeline/shortcode/timeline.php:222
+msgid "Title"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:189
+#: wp-timeline/shortcode/timeline.php:223
+msgid "Name"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:190
+#: wp-timeline/shortcode/timeline.php:224
+msgid "Modified"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:191
+#: wp-timeline/shortcode/timeline.php:225
+msgid "Parent"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:192
+#: wp-timeline/shortcode/timeline.php:226
+msgid "Random"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:193
+#: wp-timeline/shortcode/timeline.php:227
+msgid "Comment count"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:194
+#: wp-timeline/shortcode/timeline.php:228
+msgid "Menu order"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:195
+#: wp-timeline/shortcode/timeline.php:229
+msgid "Meta value"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:196
+#: wp-timeline/shortcode/timeline.php:230
+msgid "Meta value num"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:197
+#: wp-timeline/shortcode/timeline.php:231
+msgid "Post__in"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:205
+#: wp-timeline/shortcode/timeline.php:239
+msgid "Meta key"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:208
+#: wp-timeline/shortcode/timeline.php:242
+msgid "Enter meta key to query"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:214
+msgid "Position start"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:223
+msgid "autoplay"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:226
+#: wp-timeline/shortcode/timeline-slider.php:239
+#: wp-timeline/shortcode/timeline-slider.php:250
+#: wp-timeline/shortcode/timeline.php:268
+#: wp-timeline/shortcode/timeline.php:279
+msgid "No"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:227
+#: wp-timeline/shortcode/timeline-slider.php:238
+#: wp-timeline/shortcode/timeline-slider.php:251
+#: wp-timeline/shortcode/timeline.php:267
+#: wp-timeline/shortcode/timeline.php:280
+msgid "Yes"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:235
+#: wp-timeline/shortcode/timeline.php:264
+msgid "Show media"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:247
+msgid "Show label"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:253
+msgid "Show label instead of date on timeline bar"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:258
+#: wp-timeline/shortcode/timeline.php:344
+msgid "Css Class"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline-slider.php:261
+#: wp-timeline/shortcode/timeline.php:347
+msgid "Add a class name and refer to it in custom CSS"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:112
+msgid "WP Timeline Listing"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:126
+msgid "Classic"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:127
+msgid "Modern"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:135
+msgid "Alignment"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:138
+msgid "Center"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:139
+msgid "Left"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:171
+msgid "Posts per page"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:174
+msgid "Number item per page"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:247
+msgid "Start label"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:255
+msgid "End label"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:276
+msgid "Show history bar"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:288
+msgid "Animations"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:292
+msgid "bounce"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:293
+msgid "flash"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:294
+msgid "pulse"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:295
+msgid "rubberBand"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:296
+msgid "shake"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:297
+msgid "headShake"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:298
+msgid "swing"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:299
+msgid "tada"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:300
+msgid "wobble"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:301
+msgid "jello"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:302
+msgid "bounceIn"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:303
+msgid "bounceInDown"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:304
+msgid "bounceInLeft"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:305
+#: wp-timeline/shortcode/timeline.php:324
+#: wp-timeline/shortcode/timeline.php:335
+#: wp-timeline/shortcode/timeline.php:336
+#: wp-timeline/shortcode/timeline.php:337
+msgid "bounceInRight"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:306
+msgid "bounceInUp"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:307
+msgid "fadeIn"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:308
+msgid "fadeInDown"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:309
+msgid "fadeInDownBig"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:310
+msgid "fadeInLeft"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:311
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:312
+msgid "fadeInRight"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:313
+msgid "fadeInRightBig"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:314
+msgid "fadeInUp"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:315
+msgid "fadeInUpBig"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:316
+msgid "flipInX"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:317
+msgid "flipInY"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:318
+msgid "lightSpeedIn"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:319
+msgid "rotateIn"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:320
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:321
+msgid "rotateInDownRight"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:322
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:323
+msgid "rotateInUpRight"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:325
+msgid "rollIn"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:326
+msgid "zoomIn"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:327
+msgid "zoomInDown"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:328
+msgid "zoomInLeft"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:329
+msgid "zoomInRight"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:330
+msgid "zoomInUp"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:331
+msgid "slideIn"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:332
+msgid "slideInDown"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:333
+msgid "slideInLeft"
+msgstr ""
+
+#: wp-timeline/shortcode/timeline.php:334
+msgid "slideInRight"
+msgstr ""

@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+#wp-timeline{ border-radius:2px}
+#wp-timeline select, #wp-timeline input[type=text]{ min-width:250px; height:35px}
+#wp-timeline label{ margin-right:15px; display: block; margin-top:10px}
+.mce-ico.mce-i-ex_timeline_bt,
+.icon-timeline,
+.mce-i-wpex_timeline{ background-image:url(../image/icon.png) !important; background-repeat: initial !important; background-size:100%}
+.icon-timeline-slider,
+.mce-i-wpex_timeline_slider{ background-image:url(../image/icon-slider.png) !important; background-repeat: initial !important; background-size:100%}
+.wpb_element_wrapper .wpb_vc_param_value{ margin-right:15px;}
+.mce-container[aria-label="Timeline"] .mce-reset{ max-height:600px; overflow-x: scroll}
+.mce-container[aria-label="Timeline"]{ max-height:600px; overflow:hidden}
+.mce-container[aria-label="Timeline slider"] .mce-reset{ max-height:600px; overflow-x: scroll}
+.mce-container[aria-label="Timeline slider"]{ max-height:600px; overflow:hidden}
+
+/*-Settings-*/
+#wp-timeline .subsubsub{font-size:20px; width:100%}
+#wp-timeline .subsubsub li:last-child span{ display:none;}
+#wp-timeline form{
+	background-color:#FFFFFF;
+	padding:10px 30px;
+}
+#wp-timeline form .section-heading{ display:none !important}
+#wp-timeline form .form-table{ border-top: 2px solid #E8E8E8; border-bottom:2px solid #E8E8E8}
+#wp-timeline form .form-table label[for="grid_share_button_em"]{ display:block; margin-bottom:15px;}
+#wp-timeline form .form-table .color-picker{ display:inline-block}
+#wp-timeline select, #wp-timeline input[type=text] {
+    min-width: 250px;
+    height: 35px;
+	margin-right: 15px;
+}
+#wp-timeline .subsubsub{ display:block;}
+#wp-timeline form .form-table textarea{ width:100%;}
+#wpex_year_tax{ display:none;}
+
+
+
+
+
+

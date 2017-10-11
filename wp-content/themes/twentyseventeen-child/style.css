@@ -1,0 +1,22 @@
+/*
+Theme Name: Twenty Seventeen Child
+Theme URI: 
+Description: A child theme of twentyseventeen
+Author: Megan Wilson
+Author URI: 
+Template: twentyseventeen
+Version: 0.1.0
+*/
+
+p {
+    background-color: pink;
+}
+/*removes Proudly powered by Wordpress line*/
+.site-info {display:none;}
+
+/*reduces line weight on contact form*/
+label {font-weight: 600;}
+
+/*changes colour on contact form button*/
+button, input[type="button"], input[type="submit"] {
+    background-color: #666;}

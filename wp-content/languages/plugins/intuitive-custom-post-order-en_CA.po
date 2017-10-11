@@ -1,0 +1,72 @@
+# Translation of Plugins - Intuitive Custom Post Order - Stable (latest release) in English (Canada)
+# This file is distributed under the same license as the Plugins - Intuitive Custom Post Order - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-13 16:38:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Plugins - Intuitive Custom Post Order - Stable (latest release)\n"
+
+#: admin/settings-network.php:26
+msgid "Sites"
+msgstr "Sites"
+
+#: admin/settings-network.php:23
+msgid "Sortable Objects"
+msgstr "Sortable Objects"
+
+#: admin/settings-network.php:5
+msgid "Intuitive Custom Post Order Network Settings"
+msgstr "Intuitive Custom Post Order Network Settings"
+
+#. Author URI of the plugin/theme
+msgid "http://hijiriworld.com/web/"
+msgstr "http://hijiriworld.com/web/"
+
+#. Author of the plugin/theme
+msgid "hijiri"
+msgstr "hijiri"
+
+#. Description of the plugin/theme
+msgid "Intuitively, Order Items( Posts, Pages, ,Custom Post Types, Custom Taxonomies, Sites ) using a Drag and Drop Sortable JavaScript."
+msgstr "Intuitively, Order Items( Posts, Pages, ,Custom Post Types, Custom Taxonomies, Sites ) using a Drag and Drop Sortable JavaScript."
+
+#. Plugin URI of the plugin/theme
+msgid "http://hijiriworld.com/web/plugins/intuitive-custom-post-order/"
+msgstr "http://hijiriworld.com/web/plugins/intuitive-custom-post-order/"
+
+#. Plugin Name of the plugin/theme
+msgid "Intuitive Custom Post Order"
+msgstr "Intuitive Custom Post Order"
+
+#: intuitive-custom-post-order.php:178 intuitive-custom-post-order.php:188
+msgid "Intuitive CPO"
+msgstr "Intuitive CPO"
+
+#: admin/settings-network.php:33 admin/settings.php:85
+msgid "Update"
+msgstr "Update"
+
+#: admin/settings.php:61
+msgid "Sortable Taxonomies"
+msgstr "Sortable Taxonomies"
+
+#: admin/settings.php:54 admin/settings.php:82
+msgid "All Check"
+msgstr "All Check"
+
+#: admin/settings.php:32
+msgid "Sortable Post Types"
+msgstr "Sortable Post Types"
+
+#: admin/settings-network.php:10 admin/settings.php:18
+msgid "Settings saved."
+msgstr "Settings saved."
+
+#: admin/settings.php:13
+msgid "Intuitive Custom Post Order Settings"
+msgstr "Intuitive Custom Post Order Settings"
