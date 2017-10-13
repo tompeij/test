@@ -1,4 +1,4 @@
-var themename = '';
+var themename = 'twentyseventeen-child';
 
 var gulp = require('gulp'),
 	// Prepare and optimize code etc
@@ -58,7 +58,7 @@ gulp.task('javascript', function() {
 gulp.task('watch', function() {
 	browserSync.init({ 
 		open: 'external',
-		proxy: '',
+		proxy: 'localhost',
 		port: 8080
 	});
 	gulp.watch([root + '**/*.css', root + '**/*.scss' ], ['css']);
