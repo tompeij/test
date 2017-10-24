@@ -8,12 +8,14 @@ Template: twentyseventeen
 Version: 0.1.0
 */
 
+/*for testing only*/
 p {
-    background-color: ;
+    background-color: pink;
 }
 /*removes Proudly powered by Wordpress line*/
 .site-info {display:none;}
 
+/*CONTACT FORM*/
 /*reduces line weight on contact form*/
 label {font-weight: 600;}
 
